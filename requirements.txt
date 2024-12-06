@@ -9,4 +9,3 @@ jdatetime
 openpyxl
 httpx
 python-Levenshtein
-fake_useragent
