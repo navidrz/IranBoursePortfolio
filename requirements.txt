@@ -1,0 +1,12 @@
+pandas
+numpy
+streamlit
+fuzzywuzzy
+plotly
+scikit-learn
+tsetmc_api
+skfolio
+jdatetime
+openpyxl
+httpx
+python-Levenshtein
